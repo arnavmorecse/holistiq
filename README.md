@@ -45,7 +45,7 @@ Ensure that Node.js is installed on your local machine.
    ```bash
    npm run dev
    ```
-5. Access the application at `http://localhost:5173`.
+5. Access the live application at [https://holistiq-ten.vercel.app/](https://holistiq-ten.vercel.app/).
 
 ## Design Thinking Methodology
 This project was conceptualized and prototyped through a rigorous Design Thinking process:
